@@ -70,7 +70,19 @@
 
 ---
 
-##  5️⃣ 免责声明
+##  5️⃣ 圈X懒人配置
+
+分享几位大佬提供的懒人配置
+
+ [***点我***](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)
+ [***点我***](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)
+ [***点我***](https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-qx.conf)
+
+
+---
+
+
+##  6️⃣ 免责声明
 
 本项目所有内容仅用于网络研究与学习交流目的。
 禁止将本项目内容用于任何违反法律法规的用途。
