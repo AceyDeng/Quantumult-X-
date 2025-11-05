@@ -32,6 +32,18 @@
 | **PayPal.list** | PayPal US 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/PayPal.list) |
 | **Roblox_Core.list** | Roblox 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Roblox_Core.list) |
 | **Tello.list** | Tello 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Tello.list) |
+| **OpenAI.list** | ChatGPT分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list) |
+| **BardAI.list** | BardAI 分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BardAI/BardAI.list) |
+| **Claude.list** | Claude 分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list) |
+| **TikTok.list** | TikTok 分流 | [点此查看](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok.list) |
+| **WeChat.list** | 微信 直连 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list) |
+| **Google.list** | Google 分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list) |
+| **Telegram.list** | Telegram 分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list) |
+| **Netfilx.list** | Netfilx 分流 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list) |
+| **Streaming.list** | 国外流媒体加速 | [点此查看](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/Rules/Streaming.list) |
+| **Global.list** | 全球加速 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list) |
+| **China.list** | 国内网站直连 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list) |
+| **ChinaIPs.list** | CN-IP直连 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaIPs/ChinaIPs.list) |
 
 
 
