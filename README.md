@@ -46,7 +46,7 @@
 | **China.list** | 国内网站直连 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list) |
 | **ChinaIPs.list** | CN-IP直连 | [点此查看](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaIPs/ChinaIPs.list) |
 
-
+> 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣ Quantumult X 资源解析器
 
@@ -67,6 +67,10 @@ resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/maste
 |:--|:--|:--|:--|
 | `jd_price.js` | 京东比价脚本 | [查看脚本](https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js) | 京东比价脚本需下载慢买买，点开我的获取ck使用|
 
+
+> 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
+
+
 ---
 
 ##  5️⃣ 圈X懒人配置
@@ -76,6 +80,9 @@ resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/maste
  [***点我***](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)
  [***点我***](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)
  [***点我***](https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-qx.conf)
+
+
+> 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 
 ---
