@@ -75,7 +75,16 @@ resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/maste
 
 ---
 
-##  5️⃣ 圈X懒人配置
+
+##  5️⃣ Quantumult X 重写
+
+> 的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
+
+
+---
+
+
+##  6️⃣ 圈X懒人配置
 
 分享几位大佬提供的懒人配置
 
@@ -90,7 +99,7 @@ resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/maste
 ---
 
 
-## 6️⃣⚖️ 免责声明 / Disclaimer
+##  7️⃣⚖️ 免责声明 / Disclaimer
 
 本仓库所提供的全部内容（包括但不限于分流规则、复写文件、脚本、配置示例等）仅用于网络技术学习、个人研究与测试目的。仓库中的所有文件、链接与说明均由个人维护与分享，不构成任何形式的建议、担保或承诺。  
 
