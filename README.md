@@ -25,13 +25,13 @@
 | 规则名称 | 功能说明 | RAW 链接 | 作者 |
 |:--|:--|:--|:--|
 | **Apple_Intelligence.list** | Apple Intelligence / Siri 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Apple_Intelligence.list) | Acey |
-| **Douyin_Direct.list** | 抖音直连分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Douyin_Direct.list) | Acey |
-| **Grok_Intelligence.list** | Grok / xAI 相关分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Grok_Intelligence.list) | Acey |
-| **HPJY.list** | 和平精英分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/HPJY.list) | Acey |
-| **HK_Banks.list** | 香港银行域名分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/HK_Banks.list) | Acey |
-| **PayPal.list** | PayPal 支付直连 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/PayPal.list) | Acey |
-| **Roblox_Core.list** | Roblox 分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Roblox_Core.list) | Acey |
-| **Tello.list** | Tello 分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Tello.list) | Acey |
+| **Douyin_Direct.list** | 抖音直连 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Douyin_Direct.list) | Acey |
+| **Grok_Intelligence.list** | Grok / xAI 相关分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Grok_Intelligence.list) | Acey |
+| **HPJY.list** | 和平精英直连 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HPJY.list) | Acey |
+| **HK_Banks.list** | 香港银行域名分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HPJY.list) | Acey |
+| **PayPal.list** | PayPal US 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/PayPal.list) | Acey |
+| **Roblox_Core.list** | Roblox 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Roblox_Core.list) | Acey |
+| **Tello.list** | Tello 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Tello.list) | Acey |
 
 
 
