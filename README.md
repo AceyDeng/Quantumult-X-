@@ -1,7 +1,7 @@
 # 🌀 Quantumult X 分流 & 配置仓库
 
 自用及共享的 Quantumult X 分流规则、复写、脚本整理。  
-支持 Quantumult X、Surge、Loon、Clash 等多平台使用。
+支持 Quantumult X平台使用。
 
 > 📅 持续更新中 | ⚙️ 自用 + 学习交流
 
@@ -20,18 +20,18 @@
 
 ## 2️⃣ Quantumult X 分流
 
-以下 `.list` 文件均兼容 Quantumult X，可直接远程引用。（Acey自用）
+以下 `.list` 文件均兼容 Quantumult X，可直接远程引用。
 
-| 规则名称 | 功能说明 | RAW 链接 | 作者 |
-|:--|:--|:--|:--|
-| **Apple_Intelligence.list** | Apple Intelligence / Siri 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Apple_Intelligence.list) | Acey |
+| 规则名称 | 功能说明 | RAW 链接 |
+|:--|:--|:--|
+| **Apple_Intelligence.list** | Apple Intelligence / Siri 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Apple_Intelligence.list) |
 | **Douyin_Direct.list** | 抖音直连 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Douyin_Direct.list) | Acey |
-| **Grok_Intelligence.list** | Grok / xAI 相关分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Grok_Intelligence.list) | Acey |
-| **HPJY.list** | 和平精英直连 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HPJY.list) | Acey |
-| **HK_Banks.list** | 香港银行域名分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HK_Banks.list) | Acey |
-| **PayPal.list** | PayPal US 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/PayPal.list) | Acey |
-| **Roblox_Core.list** | Roblox 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Roblox_Core.list) | Acey |
-| **Tello.list** | Tello 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Tello.list) | Acey |
+| **Grok_Intelligence.list** | Grok / xAI 相关分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Grok_Intelligence.list) |
+| **HPJY.list** | 和平精英直连 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HPJY.list) |
+| **HK_Banks.list** | 香港银行域名分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/HK_Banks.list) |
+| **PayPal.list** | PayPal US 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/PayPal.list) |
+| **Roblox_Core.list** | Roblox 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Roblox_Core.list) |
+| **Tello.list** | Tello 分流 | [点此查看](https://raw.githubusercontent.com/AceyDeng/Acey-s-/main/Tello.list) |
 
 
 
@@ -39,10 +39,10 @@
 
 | 类型 | 名称 | 功能 | 链接 |
 |:--:|:--|:--|:--|
-| 🧩 广告净化 | 哔哩哔哩广告净化 | 去除哔哩视频广告 | [点击查看](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/rewrite/bilibili_ad.conf) |
-| 🎵 音乐增强 | 网易云灰色歌曲解锁 | 解锁音乐版权限制 | [点击查看](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/rewrite/music_unlock.conf) |
-| 💬 OpenAI 优化 | ChatGPT 网络加速 | 优化 ChatGPT API 链接 | [点击查看](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/rewrite/openai_fix.conf) |
-| 🕹️ 娱乐类 | Roblox 限速解除 | 优化 Roblox 网络访问 | [点击查看](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/rewrite/roblox_rewrite.conf) |
+| 🧩 广告净化 | 哔哩哔哩广告净化 | 去除哔哩视频广告 | [点击查看]() |
+| 🎵 音乐增强 | 网易云灰色歌曲解锁 | 解锁音乐版权限制 | [点击查看]() |
+| 💬 OpenAI 优化 | ChatGPT 网络加速 | 优化 ChatGPT API 链接 | [点击查看]() |
+| 🕹️ 娱乐类 | Roblox 限速解除 | 优化 Roblox 网络访问 | [点击查看]() |
 
 > 复写文件可在 Quantumult X 的 `[rewrite_remote]` 部分添加使用。
 
@@ -50,11 +50,11 @@
 
 ## 4️⃣ Quantumult X 脚本（Task / JS）
 
-##| 序号 | 脚本名 | 功能说明 | 链接 |
-##|:--:|:--|:--|:--|
-##| 1 | `auto_checkin.js` | 每日签到脚本 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/auto_checkin.js) |
-##| 2 | `weather_notify.js` | 天气推送 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/weather_notify.js) |
-##| 3 | `quota_alert.js` | 流量提醒 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/quota_alert.js) |
+| 序号 | 脚本名 | 功能说明 | 链接 |
+|:--:|:--|:--|:--|
+| 1 | `auto_checkin.js` | 每日签到脚本 | [查看脚本]() |
+| 2 | `weather_notify.js` | 天气推送 | [查看脚本]() |
+| 3 | `quota_alert.js` | 流量提醒 | [查看脚本]() |
 
 ---
 
