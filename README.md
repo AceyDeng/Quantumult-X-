@@ -20,7 +20,7 @@
 
 ## 2️⃣ Quantumult X 分流
 
-以下 `.list` 文件均兼容 Quantumult X，可直接远程引用。
+以下 `.list` 文件均兼容 Quantumult X，可直接远程引用。（Acey自用）
 
 | 规则名称 | 功能说明 | RAW 链接 | 作者 |
 |:--|:--|:--|:--|
@@ -50,11 +50,11 @@
 
 ## 4️⃣ Quantumult X 脚本（Task / JS）
 
-| 序号 | 脚本名 | 功能说明 | 链接 |
-|:--:|:--|:--|:--|
-| 1 | `auto_checkin.js` | 每日签到脚本 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/auto_checkin.js) |
-| 2 | `weather_notify.js` | 天气推送 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/weather_notify.js) |
-| 3 | `quota_alert.js` | 流量提醒 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/quota_alert.js) |
+##| 序号 | 脚本名 | 功能说明 | 链接 |
+##|:--:|:--|:--|:--|
+##| 1 | `auto_checkin.js` | 每日签到脚本 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/auto_checkin.js) |
+##| 2 | `weather_notify.js` | 天气推送 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/weather_notify.js) |
+##| 3 | `quota_alert.js` | 流量提醒 | [查看脚本](https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/scripts/quota_alert.js) |
 
 ---
 
