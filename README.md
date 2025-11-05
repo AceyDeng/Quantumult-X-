@@ -23,7 +23,7 @@
 以下 `.list` 文件均兼容 Quantumult X，可直接远程引用。
 
 | 规则名称 | 功能说明 | RAW 链接 | 作者 |
-|:--|:--|:--|
+|:--|:--|:--|:--|
 | **Apple_Intelligence.list** | Apple Intelligence / Siri 分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Apple_Intelligence.list) | Acey |
 | **Douyin_Direct.list** | 抖音直连分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Douyin_Direct.list) | Acey |
 | **Grok_Intelligence.list** | Grok / xAI 相关分流 | [点此查看](https://raw.githubusercontent.com/<AceyDeng>/<Acey-s->/main/lists/Grok_Intelligence.list) | Acey |
